@@ -1,5 +1,5 @@
 <details>
-  <summart>Now what
+  <summary>Now what</summary>
   I am just learning markdown.
-  </summary> 
+  
 </details>
